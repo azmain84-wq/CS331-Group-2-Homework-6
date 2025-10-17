@@ -18,6 +18,7 @@ T-SQL Fundamental Projects for CSCI Group 2
   - MAKE SURE WE SUBMIT sql script in .ipynb file (Azure Data Studio)
   - Complete To-do list
   - Complete the gantt chart.
+  - Complete NACE 
 
   # Pairs
   - Azmain : 
@@ -33,7 +34,7 @@ T-SQL Fundamental Projects for CSCI Group 2
    
  - Azmain: 
    
- - Haiyan:https://youtu.be/_tHXXsYoE4I
+ - Haiyan: https://youtu.be/_tHXXsYoE4I
  - Eusan:  
    
  - Christopher: 
@@ -48,7 +49,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Haiyan:
 - Izaz: 
 - Christopher:
-- Zarrin: 
+- Zarrin: Individual_Group2_HW6_ZarrinCherry.ipynb
 
 # To-Do-List
 

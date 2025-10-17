@@ -46,7 +46,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Azmain: 
 - Eusan: 
 - Shiwlee: 
-- Haiyan:
+- Haiyan: Group2_HW6_Haiyan_Wei.ipynb
 - Izaz: 
 - Christopher:
 - Zarrin: Individual_Group2_HW6_ZarrinCherry.ipynb

@@ -21,8 +21,8 @@ T-SQL Fundamental Projects for CSCI Group 2
   - Complete NACE 
 
   # Pairs
-  - Azmain : 
-  - Eusan :
+  - Azmain : Izaz: Christopher
+  - Eusan : Haiyan
   - Shiwlee : Zarrin 
 
  # Links To Individual Videos

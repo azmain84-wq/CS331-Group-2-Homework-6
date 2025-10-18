@@ -44,7 +44,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 
 # Individual Query Files
 - Azmain: 
-- Eusan: Individual_Group2_HW6_Eusan_Mahatab.ipynb
+- Eusan: 
 - Shiwlee: Individual_Group2_HW6_Shiwlee_Rahman.ipynb
 - Haiyan: Group2_HW6_Haiyan_Wei.ipynb
 - Izaz: 

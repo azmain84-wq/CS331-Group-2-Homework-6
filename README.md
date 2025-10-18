@@ -47,7 +47,7 @@ T-SQL Fundamental Projects for CSCI Group 2
 - Eusan: Individual_Group2_HW6_Eusan_Mahatab_finalUpdate.ipynb
 - Shiwlee: Individual_Group2_HW6_Shiwlee_Rahman.ipynb
 - Haiyan: Group2_HW6_Haiyan_Wei.ipynb
-- Izaz: 
+- Izaz: Group2_HW6_Izaz_Chowdhury.ipynb
 - Christopher: Individual_Group2_HW6_Christopher_Vidal.sql.sql
 - Zarrin: Individual_Group2_HW6_ZarrinCherry.ipynb
 

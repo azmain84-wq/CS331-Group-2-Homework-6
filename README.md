@@ -35,7 +35,7 @@ T-SQL Fundamental Projects for CSCI Group 2
  - Azmain: 
    
  - Haiyan: https://youtu.be/_tHXXsYoE4I
- - Eusan:  
+ - Eusan:  https://youtu.be/coTGWklOFYA
    
  - Christopher: 
 

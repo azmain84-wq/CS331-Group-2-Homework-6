@@ -1,6 +1,8 @@
 # CS331-Group-2-Homework-6
 
-T-SQL Fundamental Projects for CSCI Group 2
+T-SQL Fundamental Projects for CSCI Group 2.
+
+We are showing set-operator queries on the AdventureWorks2017 database. You’ll see INTERSECT, UNION, EXCEPT, UNION ALL & INTERSECT ALL used to answer practical people-data questions. The key idea is that set operators compare row sets and return distinct results without me writing complex joins or aggregations.
 
 # Members
 - Azmain Abrar

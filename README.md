@@ -40,7 +40,8 @@ T-SQL Fundamental Projects for CSCI Group 2
  - Christopher: https://youtu.be/wl8TG-PgsIQ
 
  # Link To GROUP Peer Discussion
--
+- https://youtu.be/r1Wxy6IO-UA
+
 
 # Individual Query Files
 - Azmain: Azmain_Abrar_Group#2_HW#6_QueryScript.ipynb
@@ -63,3 +64,4 @@ T-SQL Fundamental Projects for CSCI Group 2
 
 
 # Gantt Chart 
+<img width="1611" height="649" alt="image" src="https://github.com/user-attachments/assets/cbf1d6e9-fce8-4f93-9c1b-1acc9b9972b9" />

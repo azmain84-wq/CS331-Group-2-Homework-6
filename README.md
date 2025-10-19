@@ -55,7 +55,7 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
 - Zarrin: Individual_Group2_HW6_ZarrinCherry.ipynb
 
 # To-Do-List
-<img width="1218" height="748" alt="image" src="https://github.com/user-attachments/assets/83954c4c-ea44-4aee-9559-11d64e61afe4" />
+<img width="1219" height="755" alt="image" src="https://github.com/user-attachments/assets/bb71ae8f-aa84-4a4f-956b-9e7a72259791" />
 
 
 

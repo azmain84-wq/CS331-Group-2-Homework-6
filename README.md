@@ -34,7 +34,7 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
    
  - Izaz:
    
- - Azmain: 
+ - Azmain: https://youtu.be/YYyaZrFYGNE
    
  - Haiyan: https://youtu.be/_tHXXsYoE4I
  - Eusan:  https://youtu.be/coTGWklOFYA

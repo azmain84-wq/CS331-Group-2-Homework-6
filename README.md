@@ -56,7 +56,7 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
 
 
   
-## Tools & Technologies
+# Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|

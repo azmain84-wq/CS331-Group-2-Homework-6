@@ -32,7 +32,7 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
    
  - Zarrin: https://youtu.be/jocD6QMj7Zs?si=fx-lmlszC23ct7x4
    
- - Izaz:
+ - Izaz: https://youtu.be/xBCdIZ_hyvY
    
  - Azmain: https://youtu.be/YYyaZrFYGNE
    

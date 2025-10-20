@@ -54,6 +54,18 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
 - Christopher: Individual_Group2_HW6_Christopher_Vidal.ipynb
 - Zarrin: Individual_Group2_HW6_ZarrinCherry.ipynb
 
+
+  
+## Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| **Azure Data Studio** | SQL Query Execution & Notebooks |
+| **DBeaver** | Query Testing, Schema Browsing |
+| **GitHub** | Version Control, Submission |
+| **YouTube** | Video Presentation Hosting |
+
+
 # To-Do-List
 <img width="1219" height="755" alt="image" src="https://github.com/user-attachments/assets/bb71ae8f-aa84-4a4f-956b-9e7a72259791" />
 

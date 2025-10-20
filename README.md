@@ -64,6 +64,7 @@ We are showing set-operator queries on the AdventureWorks2017 database. You’ll
 
 # NACE
 
+<img width="567" height="756" alt="Screenshot 2025-10-20 at 12 14 54 AM" src="https://github.com/user-attachments/assets/ae4b38aa-3dbc-4000-871e-ab1082b77235" />
 
 
 
